@@ -13,18 +13,17 @@ This repository contains Python code demonstrating the generation of random poin
 #### It generates random samples from the learned GMM and plots both the original points and the sampled points.
 ## Usage:-
 ### 1. Clone this repository:-
-#### ' git clone https://github.com/your-username/gaussian-distributions-gmm.git
-cd gaussian-distributions-gmm '
+` git clone https://github.com/your-username/gaussian-distributions-gmm.git `
+` cd gaussian-distributions-gmm `
 
 ### 2. Run the desired Python scripts:-
 #### To generate univariate Gaussian points:-
-' python univariate_gaussian.py '
-
+` python univariate_gaussian.py `
 #### To generate multivariate Gaussian points:-
-' python multivariate_gaussian.py '
+` python multivariate_gaussian.py `
 
 #### To fit a GMM and visualize the results:-
-' python gmm_example.py '
+` python gmm_example.py `
 
 ## Dependencies:-
 ### Make sure you have the following Python libraries installed:-
