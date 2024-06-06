@@ -13,22 +13,22 @@ This README file on the ipynb file demonstrates the generation, visualization, a
 ## Overview:-
 ### The notebook performs the following tasks:-
 
-#### Loads real MNIST data.
-#### Generates synthetic MNIST data using a GAN (Generative Adversarial Network).
-#### Preprocesses the data.
-#### Combines real and fake data.
-#### Applies PCA for reducing data to 3 dimensions.
-#### Clusters the data using K-means.
-#### Visualizes the clusters in a 3D scatter plot.
+#### 1. Loads real MNIST data.
+#### 2. Generates synthetic MNIST data using a GAN (Generative Adversarial Network).
+#### 3. Preprocesses the data.
+#### 4. Combines real and fake data.
+#### 5. Applies PCA for reducing data to 3 dimensions.
+#### 6. Clusters the data using K-means.
+#### 7. Visualizes the clusters in a 3D scatter plot.
 
 ## Installation:-
 ### To run this notebook, you need the following libraries:-
 
-#### numpy
-#### matplotlib
-#### sklearn
-#### tensorflow
-#### keras
+#### -> numpy
+#### -> matplotlib
+#### -> sklearn
+#### -> tensorflow
+#### -> keras
 
 ### You can install them using pip:-
 
