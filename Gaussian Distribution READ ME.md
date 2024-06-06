@@ -1,20 +1,20 @@
 # Gaussian Distributions and Gaussian Mixture Model (GMM) Example
 This repository contains Python code demonstrating the generation of random points from different types of Gaussian distributions and fitting a Gaussian Mixture Model (GMM) to the data.
 
-Contents
-Univariate Gaussian Distribution:
-The univariate_gaussian.py script generates random points from a univariate Gaussian distribution with specified mean and standard deviation.
-It also includes a scatter plot visualization of the generated points.
-Multivariate Gaussian Distribution:
-The multivariate_gaussian.py script generates random points from a multivariate Gaussian distribution with a 2D mean vector and covariance matrix.
-It visualizes the points in a scatter plot.
-Gaussian Mixture Model (GMM):
-The gmm_example.py script fits a GMM to the combined points from three components.
-It generates random samples from the learned GMM and plots both the original points and the sampled points.
-Usage
-Clone this repository:
-git clone https://github.com/your-username/gaussian-distributions-gmm.git
-cd gaussian-distributions-gmm
+## Contents:- 
+### 1. Univariate Gaussian Distribution:-
+#### The univariate_gaussian.py script generates random points from a univariate Gaussian distribution with specified mean and standard deviation.
+#### It also includes a scatter plot visualization of the generated points.
+### 2. Multivariate Gaussian Distribution:-
+#### The multivariate_gaussian.py script generates random points from a multivariate Gaussian distribution with a 2D mean vector and covariance matrix.
+#### It visualizes the points in a scatter plot.
+### 3. Gaussian Mixture Model (GMM):-
+#### The gmm_example.py script fits a GMM to the combined points from three components.
+#### It generates random samples from the learned GMM and plots both the original points and the sampled points.
+## Usage:-
+### 1. Clone this repository:-
+#### 'git clone https://github.com/your-username/gaussian-distributions-gmm.git
+cd gaussian-distributions-gmm'
 
 Run the desired Python scripts:
 To generate univariate Gaussian points:
