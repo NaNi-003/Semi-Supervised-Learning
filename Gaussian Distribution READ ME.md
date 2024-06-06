@@ -1,4 +1,4 @@
-Gaussian Distributions and Gaussian Mixture Model (GMM) Example
+# Gaussian Distributions and Gaussian Mixture Model (GMM) Example
 This repository contains Python code demonstrating the generation of random points from different types of Gaussian distributions and fitting a Gaussian Mixture Model (GMM) to the data.
 
 Contents
