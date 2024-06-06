@@ -13,7 +13,7 @@ This repository contains Python code demonstrating the generation of random poin
 #### It generates random samples from the learned GMM and plots both the original points and the sampled points.
 ## Usage:-
 ### 1. Clone this repository:-
-` git clone https://github.com/your-username/gaussian-distributions-gmm.git `
+` git clone https://github.com/your-username/gaussian-distributions-gmm.git ` <br>
 ` cd gaussian-distributions-gmm `
 
 ### 2. Run the desired Python scripts:-
